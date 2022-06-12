@@ -30,9 +30,10 @@ In the future, we will implement more features and turn this one file into a pyt
 It is not yet available for PIP download, you can download it directly from Github.
 它尚未可用于PIP下载，您可以直接从Github下载。
 
+Docs: <a href = "https://www.yuque.com/docs/share/fa98d04e-eae6-4968-b287-2614d5219847?#">语雀</a>
+
 Easy import 简单导入:
 ```python
 from FishNetBot import *
 ```
 
-Docs: <a href = "https://www.yuque.com/flysmallfish/gehhzh/odhy6k">语雀</a>
