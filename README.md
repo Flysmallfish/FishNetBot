@@ -13,7 +13,7 @@ Modules / integration packs / material packs / maps are all from curseforge and 
 
 模组/整合包/材质包/地图 统统来自 Curseforge 和 我的世界模组百科(模组百科不提供下载，仅提供资料/教程)......
 
-我的目标(My goal):
+My goal 我的目标:
 
 | 网站~ WebSite                    |    支持Support    |
 |---------------------------------| ------------------|
@@ -22,3 +22,16 @@ Modules / integration packs / material packs / maps are all from curseforge and 
 | MinecraftWiki(也是查资料 lookWiki)|   暂不支持 NO     |
 | PlantMinecraft (下模组 DownMod)  |    暂不支持 NO    |
 | McBBS 我的世界中文论坛(All have)  |    暂不支持 NO    |
+
+In the future, we will implement more features and turn this one file into a python lib!
+将来，我们将实现更多功能，并将此Py文件转换为一个Python lib！
+
+It is not yet available for PIP download, you can download it directly from Github.
+它尚未可用于PIP下载，您可以直接从Github下载。
+
+Easy import 简单导入:
+```python
+from FishNetBot import *
+```
+
+Docs: 
