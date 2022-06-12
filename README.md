@@ -13,9 +13,12 @@ Modules / integration packs / material packs / maps are all from curseforge and 
 
 模组/整合包/材质包/地图 统统来自 Curseforge 和 我的世界模组百科(模组百科不提供下载，仅提供资料/教程)......
 
+我的目标(My goal):
 
 | 网站~ WebSite                    |    支持Support    |
 |---------------------------------| ------------------|
-| McMod 模组百科(查资料)                    |      支持 YES     |
-| Curseforge(下模组 Download Mod)  |      支持 YES     |
+| McMod 模组百科(查资料)            |      支持 YES     |
+| Curseforge(下模组 Down Mod)      |      支持 YES     |
 | MinecraftWiki(也是查资料 lookWiki)|   暂不支持 NO     |
+| PlantMinecraft (下模组 DownMod)  |    暂不支持 NO    |
+| McBBS 我的世界中文论坛(All have)  |    暂不支持 NO    |
