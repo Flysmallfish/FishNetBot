@@ -6,6 +6,6 @@
 ![](https://img.shields.io/badge/需要的密钥-Curseforge官方API密钥-yellow)
 
 ## 功能
-|  功能      |  说明  |
-| 模组百科爬虫|爬取McMod.cn上的信息|
+|  功能       |                    说明  |
+| 模组百科爬虫|爬取McMod.cn上的信息        |
 |CurseForgeAPI|获取+下载Curseforge上的资源|
